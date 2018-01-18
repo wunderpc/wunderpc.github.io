@@ -1,0 +1,30 @@
+body .sugar {
+
+    text-decoration-color:#243fd6;
+    font-family:"roboto";
+
+}
+
+html {
+height: 100%;
+width: 100%;
+}
+
+
+body {
+width: 100%;
+overflow: hidden;
+}
+
+h1 {
+    text-align: center;
+}
+
+.gamediv {
+    text-align: center;
+}
+
+canvas {
+    border: 5px solid white;
+
+}
